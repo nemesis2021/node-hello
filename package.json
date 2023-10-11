@@ -17,4 +17,8 @@
     "url": "https://github.com/johnpapa/node-hello/issues"
   },
   "homepage": "https://github.com/johnpapa/node-hello#readme"
+  "engines": {
+     "node": "=16.10.0"
+     "nps": ">=5.0.0"
+  },
 }
