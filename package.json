@@ -2,10 +2,6 @@
   "name": "node-hello",
   "version": "1.0.0",
   "description": "",
-  #"engines": {
-  #    "node": "=16.10.0"
-  #    "nps": ">=5.0.0"
-  #},
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
