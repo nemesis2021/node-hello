@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": ">=18.0.1"
+    "node": "<=18.00.1"
   },
   "name": "node-hello",
   "version": "1.0.0",
